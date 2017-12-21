@@ -13,7 +13,7 @@ You can install the Firebase CLI by running the command ```npm install -g fireba
 
 ***If all the requirements are fulfilled***
 
-***For the link, you can (if you have ```firebase-tools``` installed):***
+***For the link, you can :***
 
 ***1.Download this file,***
 
