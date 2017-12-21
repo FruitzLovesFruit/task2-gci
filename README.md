@@ -4,7 +4,8 @@ This is the submission to the task *Set up a Google Cloud Function that returns 
 
 ---
 
-I created this directory where I made the Cloud Funtcion through the Firebase CLI.
+I created this directory where I made the Cloud Function through the Firebase CLI.
+
 In the functions folder, the *index.js* script is the script which returns "Hello World!".
 
 ---
