@@ -3,7 +3,7 @@
 This is the submission to the task *Set up a Google Cloud Function that returns "Hello World" to the browser*, by [SugarLabs](https://sugarlabs.org/) for the [Google Code-in.](https://codein.withgoogle.com/)
 
 ---
-(h1)Requirements(/h1)
+***Requirements***
 
 You also need install [Node.js](https://nodejs.org/en/), if not already installed.
 
