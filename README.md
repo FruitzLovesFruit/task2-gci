@@ -11,10 +11,10 @@ In the functions folder, the *index.js* script is the script which returns "Hell
 
 ***For the link, you can:***
 
-***1.Download this file
+***1.Download this file***
 
-***2.Then cd into the main folder "SugarLabs-GCI-task2"
+***2.Then cd into the main folder "SugarLabs-GCI-task2"***
 
-***3.Then cd into the "functions" folder.
+***3.Then cd into the "functions" folder.***
 
 ***4.Then you can use*** ```firebase deploy``` ***command to see the function.***
