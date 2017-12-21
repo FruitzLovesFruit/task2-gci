@@ -3,19 +3,21 @@
 This is the submission to the task *Set up a Google Cloud Function that returns "Hello World" to the browser*, by [SugarLabs](https://sugarlabs.org/) for the [Google Code-in.](https://codein.withgoogle.com/)
 
 ---
+(h1)Requirements(/h1)
 
-I created this directory where I made the Cloud Function through the Firebase CLI.
+You also need install [Node.js](https://nodejs.org/en/), if not already installed.
 
-In the functions folder, the *index.js* script is the script which returns "Hello World!".
-
+You can install the Firebase CLI by running the command ```npm install -g firebase-tools``` in your terminal.
 ---
 
-***For the link, you can:***
+(h2)If all the requirements are fulfilled(/h2)
 
-***1.Download this file***
+***For the link, you can (if you have ```firebase-tools``` installed):***
 
-***2.Then cd into the main folder "SugarLabs-GCI-task2"***
+***1.Download this file,***
+
+***2.Then cd into the main folder "SugarLabs-GCI-task2" using a terminal***
 
 ***3.After that, cd into the "functions" folder.***
 
-***4.And finally, you can use*** ```firebase deploy``` ***command to see the function.***
+***4.And finally, you can use*** ```firebase deploy``` in your terminal ***command to see the function.***
