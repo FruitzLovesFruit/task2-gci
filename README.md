@@ -16,6 +16,6 @@ In the functions folder, the *index.js* script is the script which returns "Hell
 
 ***2.Then cd into the main folder "SugarLabs-GCI-task2"***
 
-***3.Then cd into the "functions" folder.***
+***3.After that, cd into the "functions" folder.***
 
-***4.Then you can use*** ```firebase deploy``` ***command to see the function.***
+***4.And finally, you can use*** ```firebase deploy``` ***command to see the function.***
