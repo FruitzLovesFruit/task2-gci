@@ -8,9 +8,10 @@ This is the submission to the task *Set up a Google Cloud Function that returns 
 You also need install [Node.js](https://nodejs.org/en/), if not already installed.
 
 You can install the Firebase CLI by running the command ```npm install -g firebase-tools``` in your terminal.
+
 ---
 
-(h2)If all the requirements are fulfilled(/h2)
+***If all the requirements are fulfilled***
 
 ***For the link, you can (if you have ```firebase-tools``` installed):***
 
